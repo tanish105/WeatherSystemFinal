@@ -13,6 +13,8 @@ A real-time weather data processing system that monitors conditions and provides
 - MongoDB integration for data persistence
 - Responsive Flutter-based frontend
 
+## Screenshot demo
+![Landing Page](images/landingpage.png)
 
 ## Prerequisites
 
@@ -101,5 +103,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB team for the robust database solution
 
 ## Contact
-
-Your Name - [@tanish105](https://github.com/tanish105)
+[@tanish105](https://github.com/tanish105)
