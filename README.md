@@ -14,7 +14,17 @@ A real-time weather data processing system that monitors conditions and provides
 - Responsive Flutter-based frontend
 
 ## Screenshot demo
+Landing page -
 ![Landing Page](images/landingpage.png)
+
+City search -
+![city](images/citysearch.png)
+
+Alert notification - 
+![alert](images/alert.png)
+
+Historical data - 
+![historical](images/historical.png)
 
 ## Prerequisites
 
